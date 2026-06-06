@@ -78,3 +78,9 @@ Contains the premium style design system:
 * **Color Schemes**: Shifted away from standard flat colors. Instead, we used rich, vibrant gradients, gold-plated details, and glowing shadows to invoke a high-end luxury brand feeling.
 * **Animations**: All motion is hardware-accelerated (`transform` and `opacity` properties) to ensure butter-smooth performance.
 * **User Feedback**: Inline inputs glow on focus, invalid states are highlighted in warm red glass, and buttons scale down slightly on click for tactile micro-feedback.
+
+## Live Demo
+
+🔗 Live Website: https://akankshaa2711.github.io/giftzone-gift-card-app/
+
+Users can access the deployed GiftZone Gift Card Purchase Application directly through the above link without any local setup.
